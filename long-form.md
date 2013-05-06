@@ -1,16 +1,17 @@
 # So you want to host a hack day?
 
-This is a work-in-progress guide to help event hosts plan, organize, and facilitate events. This guide will be built out with more details and examples, but all of the documentation will grow from this framework: set your goals, trust that you know how to meet them, and then share what you learn.
+This is a work-in-progress guide to help event hosts plan,
+ organize, and facilitate events. This guide will be built out with more details and examples, but all of the documentation will grow from this framework: set your goals, trust that you know how to meet them, and then share what you learn.
 
 ### A successful event involves three main elements:
 
-* [**Define your goals.**](setting_the_stage)
+* [**Define your goals.**](#Setting-the-stage)
 What do you *want* your hack day to accomplish? You can help answer that question by thinking about the purpose, theme, and audience of your event.
 
-* [**Do what you gotta do to have fun meeting those goals.**](logistics)
-The main thing to keep in mind is that once you have your goal defined, trust yourself that you know how to help your participants have fun and meet that goal. To that end, there are a [ton of existing guides](where_to_go_for_help) to help you figure out the details of how to actually manage the logistics of one of these events. 
+* [**Do what you gotta do to have fun meeting those goals.**](#Nuts-and-bolts)
+The main thing to keep in mind is that once you have your goal defined, trust yourself that you know how to help your participants have fun and meet that goal. To that end, there are a [ton of existing guides](#where-to-go-for-help) to help you figure out the details of how to actually manage the logistics of one of these events. 
 
-* [**Reportback.**](further_reading)
+* [**Reportback.**](#Documentation-reporting back-and-follow-through)
 Close the loop. Did you meet your goals? Did you learn something from organizing the event? Share out what you learned. 
 
 ## Setting the stage
@@ -18,7 +19,7 @@ Close the loop. Did you meet your goals? Did you learn something from organizing
 So, a hack day. There are a lot of different perceptions of hack days. The typical view is that of mute hackers furiously typing at computers, fueled by caffeine and adrenaline and after 24 or 48 hours they emerge with a magical thing, built out of fury and sweat and lack of sleep. [Those events happen](http://www.wired.com/magazine/2012/02/ff_hackathons/all/1), but your event may bear little resemblance to that, and that's perfectly fine. What should your event look like? It's helpful to think about three key areas:
 
 ### Purpose
-What do you *want* your hack day to accomplish? The answer to this question should motivate the rest of your work. and how you engage with this guide. For a tech company, they may want a hack day to help spread the word about a new tool or [API](link). Contrary to popular belief, the purpose of your hack day is unlikely to be to build a brand new widget whatsit from scratch. Some great, and realistic, purposes include: [building a sense of community](http://zzolo.org/thoughts/what-hackathons-really-are), [building connections between teams](link to keefe's piece), [fostering a better understanding of the work other groups do](http://blog.tommeagher.com/2013/04/organizing-my-first-hackathon/). 
+What do you *want* your hack day to accomplish? The answer to this question should motivate the rest of your work. and how you engage with this guide. For a tech company, they may want a hack day to help spread the word about a new tool or [API](http://en.wikipedia.org/wiki/Application_programming_interface). Contrary to popular belief, the purpose of your hack day is unlikely to be to build a brand new widget whatsit from scratch. Some great, and realistic, purposes include: [building a sense of community](http://zzolo.org/thoughts/what-hackathons-really-are), building connections between teams, [fostering a better understanding of the work other groups do](http://blog.tommeagher.com/2013/04/organizing-my-first-hackathon/). 
 
 In the process of achieving those goals, teams will do excellent work together and may even have a fancy new tool to show off at the end. But, it's useful to keep in mind that demos are not the end all be all of a hack day. You get to decide what you want to get done during the day you're organizing. And we're always available to help you talk through realistic expectation setting.
 
@@ -52,8 +53,8 @@ You've read up on things and you have some ideas for your event. You should buil
 
 Also, at least one of the organizers should have participated in a hack day before (preferably a few). The perspective of a hack day newcomer is super valuable, but it's good for at least one of the central organizers to have experience with the event style. Even if the event wasn't great, it probably still taught some lessons to inform your own organizing.
 
-# Nuts and bolts of planning, marketing, setting up event
-## Location
+## Nuts and bolts
+### Location
 You gotta find a place and set a date. Where to hold the event? Where have you attended similar events? Contact the organizers of those events and see what suggestions they have. If possible, strike a sponsorship deal with the space so that you promote their space with your event details and they give you access to the space for free/low cost. Some good places to start looking for spaces:
 * the companies of news orgs or tech companies 
 * coworking spaces, maybe you are a member of one
@@ -64,25 +65,25 @@ You should start reaching out to possible event spaces early in your planning be
 
 **Note**: The [Hack Weekends Guide](https://github.com/kinlane/hack-weekends-guide) has a lot of great tips in considering spaces including network capacity, accessibility, security, etc. These considerations are even more important if you'll be the first ones to host an event like a hack day in a certain space. Some spaces sort of know the drill, but you can't assume that and will want to check in with the space hosts on a lot of details about the space to make sure it will work for your event.
 
-## Sponsorships and fundraising
+### Sponsorships and fundraising
 How are you going to pay for the space and everything else you have planned? Sponsorships are the primary way hack days are paid for. Companies that care about what you do contribute some amount of money or in-kind donation of things like space and food to help you have a great event. Typically, in exchange, the company gets some acknowledgement on your event materials and a hearty shout out and thank you during your event. Sponsorships can get far more detailed and complex, but that's a decent starting place.
 
 Who do you ask? Hopefully someone on your organizing committee already has this fundraising skill set. For most small scale event you'll want to ask local companies you know. You can ask your favorite coffee shop to donate the morning coffee. Ask a local web hosting company if they could contribute space. OpenNews offers sponsorship. Your local tech community might offer small grants. 
 
 Your main costs are likely to be food and space and luckily those are things that can be donated in-kind, which can often be a less intimidating thing to ask for than money. But you should also feel comfortable asking for money. Think about what a sponsor gets in exchange for supporting your event: how do the sponsor's goals align with your event's goals? how does a healthy journalism technology community benefit your sponsor? how has your loyalty to the local business benefitted them in the past? 
 
-Fundraising is a huge area, and the source of a tremendous amount of anxiety. That's a big part of why [OpenNews' sponsorships](liiiink) are so straightforward. What other questions about fundraising do you have?
+Fundraising is a huge area, and the source of a tremendous amount of anxiety. That's a big part of why [OpenNews' sponsorships](http://mozillaopennews.org/hackdays.html) are so straightforward. What other questions about fundraising do you have?
 
-## Registration
+### Registration
 Most events offer an open online registration via Eventbrite, Ticketleap, Brown Paper Tickets, or some similar service. Some events go the webform route, but the ticketing services offer some nice automated emails and sign up management tools that you might not have with a webform. 
 
 The sign up technology you utilize is not nearly as important as what you put on the form.
-* **Tone** Again, direct this at your audience, but overly friendly or jokey registration pages can be alienating to some people, particularly new participants. Use clear, [inclusive](link) links.
-* **Details** Include all the relevant event details on this page: location, date, any procedure for accessing the venue, event theme, etc. Triple check that all of this information is correct. And then check it again. (Details matter, which you'll learn the hard way when you send people 4 blocks out of the way in the snow.)
-* **Participant types** You should ask people to self identify with their skill set. This will make it easy for you to track and control the porportion of different skill types at the event. Use clear, descriptive language of the participant types. Also, do include an other option for people who maybe fall into a few types or are unsure how to answer. You can always email people to clarify later.
-* **Contact info and additional questions** Most forms require name and email. Beyond that, it can be helpful to ask for organizational affiliation, Twitter handle, website, and other contact or identifying information. You may also want to ask things like "How did you hear about the event?" Be conscious of which questions are required and optional. It'd be a bummer if someone couldn't register for your event just cause they don't use Twitter.
+* **Tone:** Again, direct this at your audience, but overly friendly or jokey registration pages can be alienating to some people, particularly new participants. Use clear, inclusive language.
+* **Details:** Include all the relevant event details on this page: location, date, any procedure for accessing the venue, event theme, etc. Triple check that all of this information is correct. And then check it again.
+* **Participant types:** You should ask people to self identify with their skill set. This will make it easy for you to track and control the porportion of different skill types at the event. Use clear, descriptive language of the participant types. Also, do include an other option for people who maybe fall into a few types or are unsure how to answer. You can always email people to clarify later.
+* **Contact info and additional questions:** Most forms require name and email. Beyond that, it can be helpful to ask for organizational affiliation, Twitter handle, website, and other contact or identifying information. You may also want to ask things like "How did you hear about the event?" Be conscious of which questions are required and optional. It'd be a bummer if someone couldn't register for your event just cause they don't use Twitter.
 
-## Promotion
+### Promotion
 Once you have an event registration page, you'll want to tell people about your event! You may also have a website and Twitter account just for your event. Someone on your organizing committee may have designed a nifty logo you can use to brand your event. Spread the word via whichever platforms your community uses most. Attend events in your community and ask if you can give a quick plug about your upcoming event. 
 
 A great way to promote your event can be through partnerships. Organizations in your community might be willing to cross list your event and suggest it to your members. Your event sponsors are also a great source of help promoting your event (and by extension their investment in your event!).
@@ -91,67 +92,67 @@ And, again, send individual, personalized emails. Invite people you meet at even
 
 Also, reach out to national groups like the Online News Association that have events listings. And of course, [let us know](mailto:opennews@mozillafoundation.org) so we can add the event to the [Source events listing](http://source.mozillaopennews.org/en-US/articles/tags/events/).
 
-## Food
+### Food
 People should be well fed throughout your entire event. Meals should be covered for every time period you have people at the event. I am still trying to figure out the appropriate estimate on how to order ahead for an event, so any suggestions on that equation, please do share. If you can afford it, ordering too much is preferable to ordering too little. You don't want people distracted by being hungry.
 
 In addition to meals you should provide a steady stream of **caffiene** and **sugar**. Have coffee/tea (whatever your participants prefer) available at all times, and especially in the morning. Snacks are crucial, especially in the mid-afternoon slump. A nice assortment of junk food and nuts/fruit is ideal.
 
-## Program/prizes
+### Program/prizes
 To dispel a common misconception about hack days: you are not required to offer prizes. An enormous amount of organizing time and fundraising effort is often spent on chasing after prizes. Prizes are totally and completely optional. It is extraordinarily unlikely that people are attending your event with the prize as the sole motivator. It's probably not even a primary motivator. It's just not why people attend journalism hack days. Some other hack days are extremely focused on prizes, but these events are not. If you feel like you really need to offer prizes, make sure they can be shared by a team (good luck cutting an iPad in five parts) and keep them practical. Maybe your sponsors would like to offer a license for one of their services. Maybe they could cowork with a local news development team for a day. You can get creative, but really, go back to what your goals are for your event. Are you goals served by prizes? If so, what should those prizes look like?
 
 Planning the program can be tricky. Are people going to be heads down working? Will participants be working with a new tool or data set that requires training? Are there exciting developments in your community you'd like to tell people about to get them motivated for the weekend? Maybe you'd like to close with a speaker that will issue a motivating call to action for next steps. Speakers are not required as part of the program, but think about if they will help you meet your goals.
 
-## Technical logistics
+### Technical logistics
 Once you get everyone in one physical location, how will they be completing their work? Will everyone bring their own laptop? Can you have data sets pre-downloaded? Will people have the appropriate development environment for the project they choose to work on? Will they need hosting support? Are they familiar with git and github? This should already be known because you checked with the space host, but, will the wireless actually work? 
 
 This is one of those areas that seems to be different for every event. Definitely looking for more tips/suggestions here. Seems like a lot could be dealt with beforehand or early in the event, and yet it often comse as a surprise.  
 
-# Day of - how to prepare, what to expect, how to delegate
+## Day of - how to prepare, what to expect, how to delegate
 
-## Agenda
-The precise timing of the agenda will vary depending on the [type of event](appendix). But here is the basic flow:
-* Informal introductions - people need to meet each other. This often happens casually offer pizza or coffee as people begin to filter into the event. Build in some time for people to get in, get settled.
-* Welcome and expectation setting - the facilitator should go over the goals of the event and the general expectations for participants.
-* Formal introductions - participants sould introduce themselves in a quick ice breaker to help people get to know each other and their interests, skills, and something fun.
-* Ideation - you want to get the project ideas out there. This phase can take a lot of different forms, but basically you want to allow everyone with an idea to share it and put it down on paper/white board.
-* Project formation - idea pitchers should lead discussion of their idea, and other participants should check out the available ideas. The facilitator will help guide this process, which might involve combining ideas, redirecting people with certain skills to certain projects to give feedback, etc. **This can be very tricky**
-* Team formation - once the projects are narrowed down, the teams should start to form (this can happen concurrently). A really good project idea might turn out not to have enough team members interested and that's fine. At the end of this step, everyone should be on a team, working on a project idea.
+### Agenda
+The precise timing of the agenda will vary depending on the [type of event](#Appendices). But here is the basic flow:
+* **Informal introductions** - people need to meet each other. This often happens casually offer pizza or coffee as people begin to filter into the event. Build in some time for people to get in, get settled.
+* **Welcome and expectation setting** - the facilitator should go over the goals of the event and the general expectations for participants.
+* **Formal introductions** - participants sould introduce themselves in a quick ice breaker to help people get to know each other and their interests, skills, and something fun.
+* **Ideation** - you want to get the project ideas out there. This phase can take a lot of different forms, but basically you want to allow everyone with an idea to share it and put it down on paper/white board.
+* **Project formation** - idea pitchers should lead discussion of their idea, and other participants should check out the available ideas. The facilitator will help guide this process, which might involve combining ideas, redirecting people with certain skills to certain projects to give feedback, etc. **This can be very tricky**
+* **Team formation** - once the projects are narrowed down, the teams should start to form (this can happen concurrently). A really good project idea might turn out not to have enough team members interested and that's fine. At the end of this step, everyone should be on a team, working on a project idea.
 	* A great pre-planning tip: when possible, pre-formed or mostly pre-formed teams can have a big head start coming into events.
-* WORK - go team! Event organizers should be on-hand to help field questions and offer support, but teams should be given a giant chunk of time to just work.
-* Check in - after several hours/at the end of the day there should be some sort of formal check in. This can be a go-round from the teams themselves. Another less disruptive approach is for an event organizer to go around and interview teams with a set of questions and upload the answers to a wiki/etherpad. It's important for there to be some sort of documentation of work that the teams are doing.
-* More work - teams should keep working, with regular updates about how much time is left during the event.
-* Demo - teams should share their work! This can also take many forms.rul The traditional format is a series of PowerPoint presentations, but that's not the only option. A science fair style approach can be fun. 
-* Wrapup/next steps - the event facilitator should close out the event with lots of excitement, appreciation, and "job well done"s as well as description of any next steps.
+* **WORK** - go team! Event organizers should be on-hand to help field questions and offer support, but teams should be given a giant chunk of time to just work.
+* **Check in** - after several hours/at the end of the day there should be some sort of formal check in. This can be a go-round from the teams themselves. Another less disruptive approach is for an event organizer to go around and interview teams with a set of questions and upload the answers to a wiki/etherpad. It's important for there to be some sort of documentation of work that the teams are doing.
+* **More work** - teams should keep working, with regular updates about how much time is left during the event.
+* Demo - teams should share their work! This can also take many forms. The traditional format is a series of PowerPoint presentations, but that's not the only option. A science fair style approach can be fun. 
+* **Wrapup/next steps** - the event facilitator should close out the event with lots of excitement, appreciation, and "job well done"s as well as description of any next steps.
 
-## Roles
+### Roles
 On the event day, it's good to have different people filling different roles. The most critical roles:
-* Event facilitator - this person leads the opening and expectation setting and sets the tone for the entire event. This person should be comfortable talking with groups and able to monitor the event and judge when to intervene to help out a team or adjust the agenda.
-* Facilitator sidekick - the facilitator needs a point person helper. This person should be available to follow up on issues for the facilitator and deal with logistical items such as organizing food, clean up, etc as necessary. This person can also serve as the documenter-in-chief helping teams document their projects as well as taking photos and keeping track of the event for the organizers.
-* Tech expert - you'll want at least one of these people who can field questions, help people get their laptops set up, deal with issues, and generally just provide the comfort that there is a point person with tech skills so participants know there is someone they can go to for help.
-* Enthusiasm ringer - this can be a participant, but I think it helps to have someone who is just SO EXCITED TO BE THERE and they are able to convey that energy in a way that is infectious and not annoying. 
+* **Event facilitator** - this person leads the opening and expectation setting and sets the tone for the entire event. This person should be comfortable talking with groups and able to monitor the event and judge when to intervene to help out a team or adjust the agenda.
+* **Facilitator sidekick** - the facilitator needs a point person helper. This person should be available to follow up on issues for the facilitator and deal with logistical items such as organizing food, clean up, etc as necessary. This person can also serve as the documenter-in-chief helping teams document their projects as well as taking photos and keeping track of the event for the organizers.
+* **Tech expert** - you'll want at least one of these people who can field questions, help people get their laptops set up, deal with issues, and generally just provide the comfort that there is a point person with tech skills so participants know there is someone they can go to for help.
+* **Enthusiasm ringer** - this can be a participant, but I think it helps to have someone who is just SO EXCITED TO BE THERE and they are able to convey that energy in a way that is infectious and not annoying. 
 
-## Facilitation
+### Facilitation
 Facilitation can be really hard. It can. It doesn't come naturally to everyone. It takes a while to learn how to read and respond to a crowd. If you've been involved with your community for a long time, you already have a head start cause you are familiar with the people at your event. Great. 
 
-Through Mozilla, I've been lucky enough to learn from Gunner (Allen Gunn of [Aspiration Tech](link)) who is just a phenomonal event facilitator. He's really a genius at it. But a few things I've gleaned in terms of how he sets the tone at the beginning of the event. 
+Through Mozilla, I've been lucky enough to learn from Gunner (Allen Gunn of [Aspiration Tech](http://aspirationtech.org/)) who is just a phenomonal event facilitator. A few things I've picked up from him about how he sets the tone at the beginning of the event. 
 * He starts by laying out the purpose and expectations for the event with an enthusiasm that feels genuine.
 * He sets reviews shared rules (which he himself also follows):
-	* Respect time and schedule - we will all be aware of the schedule and not waste or impose on each other's time
-	* Respect communication - we will be mindful of vocabulary by avoiding use of jargon and defining terms when they arise
-	* Rule of one, rule of n - each person should  speak 1/nth of the time. Find yourself talking more? Step back. Talking less? Step up. 
+	* **Respect time and schedule** - we will all be aware of the schedule and not waste or impose on each other's time
+	* **Respect communication** - we will be mindful of vocabulary by avoiding use of jargon and defining terms when they arise
+	* **Rule of one, rule of n** - each person should  speak 1/nth of the time. Find yourself talking more? Step back. Talking less? Step up. 
 The rules are simple, straightforward, and all oriented toward respect and inclusion of all participants. It sets the perfect tone.
 * He monitors the event and intervenes when a team seems to need assistnace or redirection. He also reads the crowd and adjusts the schedule as necessary to respond to energy levels/engagement.
 
 These are all tactics that anyone can use. Treating people with respect and expecting the same from them goes an awful long way. 
 
-## Code of conduct
-In additoin to facilitation, it can be helpful to have an event code of conduct. The Python Conference has a [great example](link).
+### Code of conduct
+In additoin to facilitation, it can be helpful to have an event code of conduct. The Python Conference has a [great example](https://us.pycon.org/2013/about/code-of-conduct/).
 
 Another thing to consider with codes of conduct is privacy. Ask people if they want their picture taken. This can be a question in registration or something you deal with on the event day. 
 
 Codes of conduct are great because you have a description of what you'll do if an issue arises (however unlikely you may believe that to be). They also have the added benefit of showing participants that you're thinking about conduct, privacy, and safety, which is a great thing convey.
 
-# Documentation, reporting back, and follow through
+## Documentation, reporting back, and follow through
 Congratulations, you held your event! You should tell everyone about it. During the event itself, you should have created some mechanism for teams to track their projects (a wiki, etherpad, github, hackdash).
 
 After the event, write a post about how it went so that the community can learn from you. Examples include:
@@ -160,24 +161,24 @@ After the event, write a post about how it went so that the community can learn 
 * [Knight Lab](http://knightlab.northwestern.edu/2013/04/19/what-we-learned-hosting-three-chicago-crime-hacks/)
 * Add yours here
 
-Depending on the goal of your event, you might have some follow up [project nights](link). You might have a reportback at the next Hacks/Hackers chapter meeting in your city. Leave your event participants with some options for next steps so they can stay engaged.
+Depending on the goal of your event, you might have some follow up project nights. You might have a reportback at the next Hacks/Hackers chapter meeting in your city. Leave your event participants with some options for next steps so they can stay engaged.
 
 ## How can we help?
 How can we help with your events? But also, how can this doc be improved? Some things I know I want to build out:
-* info about open space technology format (h/t [@LizBarry](link) from TransparencyCamp 13)
+* info about open space technology format (h/t [@LizBarry](http://twitter.com/lizbarry) from [TransparencyCamp 13](http://transparencycamp.org))
 * more examples
 * more about the role hack days play in the community engagement and project development pipelines
 * more about additional events ^ related to pipeline
 * more about what logistics people want help with
 * formatting. These are so many words, how to make readable?
 
-# Excellent resources
+## Excellent resources
 Lots of links above to be compiled (and added to) here.
 
 ### Credits
 This guide is inspired by Singly's [Ultimate Guide to Hack Weekends](https://github.com/kinlane/hack-weekends-guide) and h/t to [CaptainCalliope](https://github.com/CaptainCalliope) for suggesting it.
 
-The crowd at the [hack day session](link) at TransparencyCamp13 really helped me push through and finish the first long draft of this on the train back to Philly. Thanks!
+The crowd at the [hack day session](http://transparencycamp.org/schedule/2013/hackathons-open-source-open-gov-sustainable-commun/) at TransparencyCamp13 really helped me push through and finish the first long draft of this on the train back to Philly. Thanks!
 
 Many more credits to come.
 
@@ -186,11 +187,11 @@ Many more credits to come.
 I work for [OpenNews](http://mozillaopennews.org). We provide sponsorships to folks organizing hack days that work on real-world journalism problems. A lot of people, all over the world, are interested in holding events that bring together journalists, developers, designers, data specialists, and other folks excited about technology and journalism. This guide is meant to help organizers of events plan, execute, and document their hack days. Please contribute suggestions and contact OpenNews [if you'd like to host an event](https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day).
 
 #### Expectations OpenNews has
-OpenNews sponsors [a lot of hack days](link to wiki page). We do that to support awesome events. Some things we ask of event organizers:
+OpenNews sponsors [a lot of hack days](https://wiki.mozilla.org/OpenNews/hackdays). We do that to support awesome events. Some things we ask of event organizers:
 * credit us as a sponsor (just ask for logos or any other files you need)
 * tell us about your attendees: who attended? how many people?
 * tell us about the projects: what got built? how many projects? links, please
-* tell us about the experience: join a [community call](wiki link), forwarded us your debrief blog post to circulate, and if you have some noteworthy takeaways, tell [Source](http://source.mozillaopennews.org) about it.
+* tell us about the experience: join a [community call](https://wiki.mozilla.org/OpenNews/Calls), forwarded us your debrief blog post to circulate, and if you have some noteworthy takeaways, tell [Source](http://source.mozillaopennews.org) about it.
 
 ### Follow up
 * Contribute to this repo.
@@ -245,5 +246,6 @@ These are some examples with a few thoughts on each format. Pick the one that se
 * Documentation-a-thon 
 * Start-a-thon
 * SEPTA hack days, topical themes.
+* add more examples and links
 
 **Note**: Remote assistance. Sometimes, a team has a question that no one physically present can answer. Or a team member can only participate in person for part of the event. Or someone wants to join in, but can't make it to the space. Some events are experimenting with having more remote participants. These partiicpants can help a ton in a pinch -- connecting via Twitter, IRC, email, sometimes even Skype -- but it can make the community building aspect of a hack day more challenging. If it seems that a lot of participants won't be able to attend in person, look at if a different day or style of event might be better. Participants don't have to sign their lives away for a weekend, but there is definitely a sense of camraderie that comes from working with a group at the same table for hours on end.
