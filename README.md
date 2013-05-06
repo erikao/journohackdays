@@ -4,13 +4,13 @@ This is a work-in-progress guide to help event hosts plan, organize, and facilit
 
 ### A successful event involves three main elements
 
-* [**Define your goals.**](#Setting-the-stage)
+* [**Define your goals.**](#setting-the-stage)
 What do you *want* your hack day to accomplish? You can help answer that question by thinking about the purpose, theme, and audience of your event.
 
-* [**Do what you gotta do to have fun meeting those goals.**](#Nuts-and-bolts)
-The main thing to keep in mind is that once you have your goal defined, trust yourself that you know how to help your participants have fun and meet that goal. To that end, there are a [ton of existing guides](#Where-to-go-for-help) to help you figure out the details of how to actually manage the logistics of one of these events. 
+* [**Do what you gotta do to have fun meeting those goals.**](#nuts-and-bolts)
+The main thing to keep in mind is that once you have your goal defined, trust yourself that you know how to help your participants have fun and meet that goal. To that end, there are a [ton of existing guides](#where-to-go-for-help) to help you figure out the details of how to actually manage the logistics of one of these events. 
 
-* [**Reportback.**](#Documentation-reporting back-and-follow-through)
+* [**Reportback.**](#documentation-reporting back-and-follow-through)
 Close the loop. Did you meet your goals? Did you learn something from organizing the event? Share out what you learned. 
 
 ## Setting the stage
@@ -38,7 +38,7 @@ The more detail you can get about the skills of your attendees, the better. It's
 
 ## How to get started with planning
 ### Where to go for help
-You don't have to reinvent the wheel and you do not have to figure out all the minutiae yourself. What you need help with will vary depending on your [organizing team](#Building-your-team)'s skillset. Your goal should be to have an event that meets the goals you and your community have laid out. You don't have to follow anyone else's definition of what a hack day is, but, if you want tips and suggestions, they abound:
+You don't have to reinvent the wheel and you do not have to figure out all the minutiae yourself. What you need help with will vary depending on your [organizing team](#building-your-team)'s skillset. Your goal should be to have an event that meets the goals you and your community have laid out. You don't have to follow anyone else's definition of what a hack day is, but, if you want tips and suggestions, they abound:
 * [Mozilla's hack jam guide](https://webmaker.org/en-US/events/guides/hack-jam/)
 * [Hack Weekends Guide](https://github.com/kinlane/hack-weekends-guide)
 * [The Hack Day Manifesto](http://hackdaymanifesto.com/)
@@ -111,7 +111,7 @@ This is one of those areas that seems to be different for every event. Definitel
 ## Day of - how to prepare, what to expect, how to delegate
 
 ### Agenda
-The precise timing of the agenda will vary depending on the [type of event](#Appendices). But here is the basic flow:
+The precise timing of the agenda will vary depending on the [type of event](#appendices). But here is the basic flow:
 * **Informal introductions** - people need to meet each other. This often happens casually offer pizza or coffee as people begin to filter into the event. Build in some time for people to get in, get settled.
 * **Welcome and expectation setting** - the facilitator should go over the goals of the event and the general expectations for participants.
 * **Formal introductions** - participants should introduce themselves in a quick ice breaker to help people get to know each other, their interests, skills, and something fun.
