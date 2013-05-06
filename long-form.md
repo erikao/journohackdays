@@ -198,8 +198,8 @@ OpenNews sponsors [a lot of hack days](https://wiki.mozilla.org/OpenNews/hackday
 * Find me on Twitter [@erika_owens](http://twitter.com/erika_owens)
 * Email: erika@mozillafoundation.org
 
-### Appendices
-## So, what are your options for formats?
+## Appendices
+### So, what are your options for formats?
 These are some examples with a few thoughts on each format. Pick the one that seems like it'll meet your needs and is feasible with the level of planning/financial support you have.
 
 ### One-day event
