@@ -107,6 +107,14 @@ Planning the program can be tricky. Are people going to be heads down working? W
 Once you get everyone in one physical location, how will they be completing their work? Will everyone bring their own laptop? Can you have data sets pre-downloaded? Will people have the appropriate development environment for the project they choose to work on? Will they need hosting support? Are they familiar with git and github? This should already be known because you checked with the space host, but, will the wireless actually work? 
 
 This is one of those areas that seems to be different for every event. Definitely looking for more tips/suggestions here. Seems like a lot could be dealt with beforehand or early in the event, and yet it often comes as a surprise.  
+Home/SOHO offices WIFI routers tend to collapse when too many devices are connected to it. If your budget allows it, buy ethernet hubs and cables (cheap 8 ports switches handle the load better that the wireless networks). If your budget doesn't, ask the participants if they can bring their wired equipements.
+
+### Communication tools during the event
+Obviously, face to face is a key benefit of a hackathon. However, we found that it works quite well to add written tools to the mix:
+- an IRC channel. You can [create one on freenode](http://blog.freenode.net/2008/04/registering-a-channel-on-freenode/) is a convenient way to notify participants in an unobstrutive way (pizza are delivered, does someone know how to do XY?...). It also helps keeping a log of the discussions. Useful if one participant takes a break and wants to know what has happened when he/she slept
+- etherpad/google doc
+Document/FAQ. For instance if you work on a common dataset, information about the structure, tips on how to use command line tools to search and extract...
+
 
 ## Day of - how to prepare, what to expect, how to delegate
 
